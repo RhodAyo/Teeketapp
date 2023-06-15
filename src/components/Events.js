@@ -80,9 +80,9 @@ function Events() {
         {newSerch.map(function (item) {
           return (
             <div
-              class="w-[349px] h-[172px] ml-[1rem] flex justify-between pl-[1rem] pt-[1rem] 
+              class="w-[349px] h-[172px] flex justify-between pl-[1rem] pt-[1rem] 
                 border-2 mt-[1.5rem]  border-[#4d4d4d10]  pr-[1rem] shadow-sm pb-[1rem] 
-                rounded-[.5rem]"
+                rounded-[.5rem] overflow-hidden"
               key={item.id}
             >
               <div class="w-[45%]">
@@ -120,7 +120,7 @@ function Events() {
           );
         })}
 
-        <div class=" ml-[1rem]">
+        <div>
           <button
             type="button"
             onClick={handleButtonClick}
@@ -137,7 +137,7 @@ function Events() {
                   {item.heading}
                 </h2>
                 <div
-                  class="w-[349px] ml-[1rem] h-[172px] flex justify-between pl-[1rem] pt-[1rem] 
+                  class="w-[349px] h-[172px] flex justify-between pl-[1rem] pt-[1rem] 
                 border-2 mt-[1.5rem] border-[#4d4d4d10]  pr-[1rem] shadow-sm pb-[1rem] 
                 rounded-[.5rem]"
                   key={item.id}
