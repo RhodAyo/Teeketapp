@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
+
+A capstone project designed by the Hertechtrail team which focuses creating an online event ticketing web app that allows for users login (authentication) by two means provided by Firebase (Google Authentication, Email and Password), checking of trending and upcoming event which was implemented with the use of array of objects etc.
 
 ## Available Scripts
 
