@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.70333769.css",
+    "main.js": "/static/js/main.da65fd99.js",
+    "static/media/hero-attendee.png": "/static/media/hero-attendee.8f7fd7dff4beaba165cd.png",
+    "static/media/landing_page.png": "/static/media/landing_page.4725d29036d8343fd801.png",
+    "static/media/background.png": "/static/media/background.646cf8abcbdf5e9ca1d2.png",
+    "static/media/landing_image5.svg": "/static/media/landing_image5.13cdcf10a9f811f699f8fb38489b4892.svg",
+    "static/media/landing_image1.svg": "/static/media/landing_image1.8c8cd954aadc21ae16c20a0d51074893.svg",
+    "static/media/Frame 140.svg": "/static/media/Frame 140.f96ea395d1b3ab2abea652ea9190c6c5.svg",
+    "static/media/landing_image3.svg": "/static/media/landing_image3.e6ddd3978dbec123e9adb1e5dd3dca53.svg",
+    "static/media/Frame 126.svg": "/static/media/Frame 126.c3a77dbda7393f9505809b33f7c99c7f.svg",
+    "static/media/user pictures.jpg": "/static/media/user pictures.dd4fd63ca4ad2f09e642.jpg",
+    "static/media/Frame 136.svg": "/static/media/Frame 136.903596b7bb24a6fc2da7ce31c113a3bd.svg",
+    "static/media/phone.png": "/static/media/phone.2fcf73ed5c6ba56c068f.png",
+    "static/media/graph 1.jpg": "/static/media/graph 1.ceee94a9e6f4b565b3ea.jpg",
+    "static/media/general_teeket_logo.svg": "/static/media/general_teeket_logo.e1877ad9a74587c60f0b37acbf52a27b.svg",
+    "static/media/landing_teeket_logo.svg": "/static/media/landing_teeket_logo.82c14943dae7957658985ccb7e8286a6.svg",
+    "static/media/vectt.svg": "/static/media/vectt.d95b040c7fd3b1ae2eb160ae47ac35ae.svg",
+    "static/media/google_signin.svg": "/static/media/google_signin.9e0ab3b4799139f411c434ec29b8f8be.svg",
+    "static/media/ChatDots.svg": "/static/media/ChatDots.46fff45c429caf5a0e4b79570a363985.svg",
+    "index.html": "/index.html",
+    "static/media/backarrow.svg": "/static/media/backarrow.edefc46cbed962cf0f4b8690a94dbe6a.svg",
+    "static/media/forwardarrow.svg": "/static/media/forwardarrow.20f6b0082aeb30fbffb97d1ba2ec10ed.svg",
+    "static/media/Vector.svg": "/static/media/Vector.b61f9f95f5f5fb9ee567200d3cacf5c5.svg",
+    "main.70333769.css.map": "/static/css/main.70333769.css.map",
+    "main.da65fd99.js.map": "/static/js/main.da65fd99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70333769.css",
+    "static/js/main.da65fd99.js"
+  ]
+}
