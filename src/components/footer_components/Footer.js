@@ -117,7 +117,7 @@ function Footer() {
 
             {isDropdownOpen && (
               <div class=" pt-[.8rem]">
-                <a href=" "></a>
+                {/* <a href="/home"></a> */}
                 <p class="text-[#D2D2D2] mb-[.7rem] text-[14px] font-light">
                   How to create events
                 </p>

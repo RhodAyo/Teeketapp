@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from "react";
 import "../../App.css";
 import { attendanceArray } from "../../AttendeesData";
@@ -21,6 +22,7 @@ function Attendees() {
   };
 
   // Search functionality
+  // eslint-disable-next-line no-unused-vars
   const [searchQuery, setSearchQuery] = useState("");
   const [newSerch, setSearchResults] = useState(attendanceArray);
 

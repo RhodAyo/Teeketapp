@@ -8,6 +8,7 @@ import { remainEvents } from "../Eventdata";
 
 function Events() {
   //Button functionality
+  // eslint-disable-next-line no-unused-vars
   const [displayedObjects, setDisplayedObjects] = useState([]);
   const [showHiddenObjects, setShowHiddenObjects] = useState(false);
   const handleButtonClick = () => {
@@ -102,7 +103,7 @@ function Events() {
                 </h3>
 
                 <div class="flex w-[90%] mt-[1rem]">
-                  <img src={item.icon} alt="image" />
+                  <img src={item.icon} alt="iconimage" />
                   <p class="text-[12px] w-[20rem]  ml-[.4rem] ">{item.name}</p>
                 </div>
 
@@ -113,7 +114,7 @@ function Events() {
               </div>
 
               <div class="w-[55%]  mt-[.7rem] pl-[4rem]">
-                <img src={item.image} alt="image" />
+                <img src={item.image} alt="creatorimage" />
               </div>
             </div>
           );
@@ -159,7 +160,7 @@ function Events() {
                     </h3>
 
                     <div class="flex w-[90%] mt-[1rem]">
-                      <img src={item.icon} alt="image" />
+                      <img src={item.icon} alt="iconimage" />
                       <p class="text-[12px] w-[20rem]  ml-[.4rem] ">
                         {item.name}
                       </p>
@@ -172,7 +173,7 @@ function Events() {
                   </div>
 
                   <div class="w-[55%]  mt-[.7rem] pl-[4rem]">
-                    <img src={item.image} alt="image" />
+                    <img src={item.image} alt="creatorimage" />
                   </div>
                 </div>
               </div>
